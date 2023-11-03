@@ -1,0 +1,6 @@
+
+In this table, we list the TNS name and sub-burst number of each sub-burst identified as a 'repeater candidate' by an ensemble of positive unlabelled (PU) classifiers over 1000 train-test splits.
+
+Count: the number of times each candidate was flagged across the 1000 iterations. A higher count indicates higher confidence.
+From silver sample: If the sub-burst was from CHIME/FRB catalog 2 (observed between 2019 September 30 and 2021 May 1), we note whether Andersen et al. (2023) identified the burst as a candidate in the 'silver sample'.
+Overlapping with: If the sub-burst was from catalog 1 (observed between 24 July 2018 and 1 July 2019), we note if it was also identified as a candidate by Pleunis et al. 2021 (1), Luo et al. 2022 (2), or Zhu-Ge et al. 2022 (3).

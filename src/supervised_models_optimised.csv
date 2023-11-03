@@ -1,0 +1,9 @@
+,model,params,ll_score
+0,DecisionTreeClassifier,"{'min_samples_split': 20, 'min_samples_leaf': 2, 'criterion': 'gini'}",1.7776479181884588
+1,RandomForestClassifier,"{'n_estimators': 245, 'min_samples_split': 21, 'min_samples_leaf': 10, 'criterion': 'entropy'}",2.0572476939541677
+2,SVC,"{'C': 0.053370327626039576, 'degree': 2}",2.2439737034331633
+3,AdaBoostClassifier,"{'n_estimators': 379, 'learning_rate': 0.2799743084246729, 'algorithm': 'SAMME.R'}",2.4371881945199942
+4,LGBMClassifier,"{'n_estimators': 314, 'learning_rate': 0.7634745502856656, 'subsample': 0.5517416382671432, 'colsample_bytree': 0.8748572996659076}",2.4067619743295414
+5,XGBClassifier,"{'n_estimators': 472, 'eta': 4.463589298990465, 'gamma': 0.015812457773552488, 'min_child_weight': 0.0013235039876917161, 'max_delta_step': 0.02148492608287815, 'max_leaves': 165, 'max_bin': 81, 'subsample': 0.8088819609029114, 'colsample_bytree': 0.4255638819241213}",2.527100073046019
+6,LogisticRegression,"{'tol': 5.6115164153345e-05, 'C': 63.512210106407046, 'solver': 'liblinear', 'max_iter': 162}",2.071360341630612
+7,LinearDiscriminantAnalysis,"{'solver': 'svd', 'store_covariance': False, 'tol': 0.000462258900102083}",2.2439737034331633

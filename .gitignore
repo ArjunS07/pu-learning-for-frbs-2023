@@ -1,0 +1,4 @@
+venv
+.DS_Store
+**.pyc
+src/figures/puml/candidate_analysis/*
